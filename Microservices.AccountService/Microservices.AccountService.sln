@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountService.Api", "AccountService.Api\AccountService.Api.csproj", "{4258796B-F275-4398-8A0D-C0A0C3206F8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountService.Domain", "AccountService.Domain\AccountService.Domain.csproj", "{82234E6E-E155-4F8B-B7EA-E6DA8AF0038F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountService.Contracts", "AccountService.Contracts\AccountService.Contracts.csproj", "{D88E75A4-D96B-4597-BBAE-98BD59AE569F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountService.Application", "AccountService.Application\AccountService.Application.csproj", "{65B01E4B-36E2-4944-AA06-6B7AE57DEF94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountService.Data", "AccountService.Data\AccountService.Data.csproj", "{EC65E2B1-ED00-4BCE-A10A-3080FF57C1F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountService.DTO", "AccountService.DTO\AccountService.DTO.csproj", "{7E19CCF8-FBCE-4DD2-B5C2-4BD2A2E9B9E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountService.Validation", "AccountService.Validation\AccountService.Validation.csproj", "{9D198133-B607-4A90-9686-F6E2A703E83D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4258796B-F275-4398-8A0D-C0A0C3206F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4258796B-F275-4398-8A0D-C0A0C3206F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4258796B-F275-4398-8A0D-C0A0C3206F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4258796B-F275-4398-8A0D-C0A0C3206F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82234E6E-E155-4F8B-B7EA-E6DA8AF0038F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82234E6E-E155-4F8B-B7EA-E6DA8AF0038F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82234E6E-E155-4F8B-B7EA-E6DA8AF0038F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82234E6E-E155-4F8B-B7EA-E6DA8AF0038F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88E75A4-D96B-4597-BBAE-98BD59AE569F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88E75A4-D96B-4597-BBAE-98BD59AE569F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88E75A4-D96B-4597-BBAE-98BD59AE569F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88E75A4-D96B-4597-BBAE-98BD59AE569F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B01E4B-36E2-4944-AA06-6B7AE57DEF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B01E4B-36E2-4944-AA06-6B7AE57DEF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B01E4B-36E2-4944-AA06-6B7AE57DEF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B01E4B-36E2-4944-AA06-6B7AE57DEF94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC65E2B1-ED00-4BCE-A10A-3080FF57C1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC65E2B1-ED00-4BCE-A10A-3080FF57C1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC65E2B1-ED00-4BCE-A10A-3080FF57C1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC65E2B1-ED00-4BCE-A10A-3080FF57C1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E19CCF8-FBCE-4DD2-B5C2-4BD2A2E9B9E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E19CCF8-FBCE-4DD2-B5C2-4BD2A2E9B9E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E19CCF8-FBCE-4DD2-B5C2-4BD2A2E9B9E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E19CCF8-FBCE-4DD2-B5C2-4BD2A2E9B9E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D198133-B607-4A90-9686-F6E2A703E83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D198133-B607-4A90-9686-F6E2A703E83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D198133-B607-4A90-9686-F6E2A703E83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D198133-B607-4A90-9686-F6E2A703E83D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
